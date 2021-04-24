@@ -17,6 +17,13 @@ AWS is vast. Unless I capture what I find useful the moment I am reading or refe
 * [AWS Quick Starts](https://aws.amazon.com/quickstart) - Automated, gold-standard deployments in the AWS Cloud
 
 ## EXPERT SOURCES
+
+### GitHub Resources
+#### AWS Inventory
+1. [AWS Inventory](https://github.com/devops-israel/aws-inventory) : The AWS Inventory is using the AWS JavaScript SDK and Bootstrap
+2. [List of ALL AWS resources](https://github.com/MichaelDimmitt/check-all-aws-regions) : Using _aws resourcegroupstaggingapi_ command
+
+
 ### Gruntwork
 1. [Authenticating to AWS with the Credentials File](https://blog.gruntwork.io/authenticating-to-aws-with-the-credentials-file-d16c0fbcbf9e)
 2. [Authenticating to AWS with Environment Variables](https://blog.gruntwork.io/authenticating-to-aws-with-environment-variables-e793d6f6d02e)
