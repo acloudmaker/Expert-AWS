@@ -2,7 +2,7 @@
 
 General AWS Repo. Please check individual AWS-* repos for specific works.
 
-AWS is vast. Unless I capture what I find useful the moment I am reading or referencing a source I am lost. And then there is the organizing the materials burden which is not performed well, it is hard to start and finish a project or even a thread of thought. This repo is designed to address some of those challenges.
+AWS is vast. Unless I capture what I find useful the moment I am reading or referencing a source I am lost. And then there is the organization of the materials burden which if not performed well, it is hard to start and finish a project, let alone seeing through to the end of a thread of thought when the mind is overwhelmed with so much data and information. This repo is designed to address some of those challenges throughout the journey from a beginner level to an expert.
 
 ## Amazon Documentation and References
 * [AWS Documentation Home](https://docs.aws.amazon.com/index.html) - Find user guides, developer guides, API references, tutorials, and more.
@@ -21,7 +21,7 @@ AWS is vast. Unless I capture what I find useful the moment I am reading or refe
 ### GitHub Resources
 #### AWS Inventory
 1. [AWS Inventory](https://github.com/devops-israel/aws-inventory) : The AWS Inventory is using the AWS JavaScript SDK and Bootstrap
-2. [List of ALL AWS resources](https://github.com/MichaelDimmitt/check-all-aws-regions) : Using _aws resourcegroupstaggingapi_ command
+2. [List of ALL AWS resources](https://github.com/MichaelDimmitt/check-all-aws-regions) : Using _aws resourcegroupstaggingapi_ command, tested and it works!
 
 
 ### Gruntwork
